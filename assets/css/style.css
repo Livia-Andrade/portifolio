@@ -1,18 +1,17 @@
-*{padding: 0;
-margin: 0;
-box-sizing: border-box;
-font-family: "Saira";
+::-webkit-scrollbar {
+  width: 8px;
 }
 
-body{
-  
+::-webkit-scrollbar-track {
+  background-color: #080713;
 }
 
-header .grid-layout nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-  height: 8vh;
-  padding: 0px 8px;
+::-webkit-scrollbar-thumb {
+  background-color: #6610f2;
+  border-radius: 8px;
 }
+
+.footer {
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */

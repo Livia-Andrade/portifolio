@@ -1,0 +1,17 @@
+{
+    "version": 3,
+    "mappings": "AQAA,AAAA,OAAO,CAAA;EACL,UAAU,EAAE,MAAM;CACnB",
+    "sources": [
+        "../scss/style.scss",
+        "../scss/_variables.scss",
+        "../scss/_menu.scss",
+        "../scss/_home.scss",
+        "../scss/_about.scss",
+        "../scss/_projects.scss",
+        "../scss/_services.scss",
+        "../scss/_skills.scss",
+        "../scss/_footer.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
